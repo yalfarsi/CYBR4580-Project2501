@@ -48,7 +48,7 @@ NetBeans: NetBeans profiler is a fully featured Java profiling tool integrated i
 VisualVM: The VisualVM monitors and troubleshoots applications running on Java 1.4+ from many vendors using various technologies including jvmstat, JMX, Serviceability Agent (SA) and Attach API. VisualVM perfectly fits all the requirements of application developers, system administrators, quality engineers and end users.
 HeapAnalyzer: HeapAnalyzer allows the finding of a possible Java heap leak area through its heuristic search engine and analysis of the Java heap dump in Java applications.
 
-ntelliJ IDEA:  ntelliJ IDEA is a Java integrated development environment for developing computer software. 
+intelliJ IDEA:  intelliJ IDEA is a Java integrated development environment for developing computer software. 
 
 VirtualBox: Oracle VM VirtualBox is a free and open-source hypervisor for x86 computers currently being developed by Oracle Corporation.
 
